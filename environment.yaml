@@ -1,0 +1,35 @@
+# name: swt
+# channels:
+#   - menpo
+#   - defaults
+dependencies:
+  # - python=3.6.10
+  - _libgcc_mutex
+  - blas
+  - ca-certificates
+  - certifi
+  - intel-openmp
+  # - ld_impl_linux-64=2.33.1
+  - libffi
+  # - libgcc-ng
+  # - libgfortran-ng
+  # - libstdcxx-ng
+  - mkl
+  - mkl-service
+  - mkl_fft
+  - mkl_random
+  # - ncurses
+  - numpy
+  - numpy-base
+  - opencv3
+  - openssl
+  - pip
+  # - readline
+  - scipy
+  - setuptools
+  - six
+  - sqlite
+  - tk
+  - wheel
+  - xz
+  - zlib
